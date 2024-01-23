@@ -1,24 +1,18 @@
-## Olá, eu sou Arthur! 👋
 
-### Sobre mim
+<h1>Olá, sou Arthur - Desenvolvedor Frontend</h1>
 
-- 👨‍💻 Desenvolvedor Front-end apaixonado por criar interfaces incríveis e experiências de usuário envolventes.
-- 🛠️ Trabalhando com TypeScript e Vue.js, explorando as melhores práticas para desenvolvimento front-end.
-- 🎨 Atualmente, estou desenvolvendo projetos autorais focados em front-end, buscando sempre inovar e aprender novas tecnologias.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurhzkunz/)](https://www.linkedin.com/in/arthurhzkunz/)
 
-### Habilidades e Interesses
+## Tecnologias que utilizo
+(Vue JS | Typescript| Javascript | React JS  | Tailwind) 🚀
+- Desenvolvedor Freelancer
 
-- 🌐 Desenvolvimento Front-end
-- 🛠️ TypeScript, JavaScript, Vue.js
-- Supabase
-- 📱 Desenvolvimento de interfaces responsivas
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ [Univates](https://univates.br/)
+- 🌐 Aprendizado contínuo
+- 💡 Em busca de novos desafios
 
-### Projetos
-
-Você pode conferir os projetos no meu repositório!
-
-### Como entrar em contato
-
-- 📧 E-mail: arthurhkunz@gmail.com
-- 🌐 LinkedIn: linkedin.com/in/arthurhzkunz/
-
+<div align="left">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurhzk)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
