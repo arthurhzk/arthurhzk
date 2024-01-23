@@ -5,7 +5,6 @@
 
 ## Tecnologias que utilizo
 (Vue JS | Typescript| Javascript | React JS  | Tailwind) 🚀
-- Desenvolvedor Freelancer
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ [Univates](https://univates.br/)
 - 🌐 Aprendizado contínuo
